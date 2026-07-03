@@ -30,9 +30,7 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "this sever have rules",
-        "I like to play Minecraft!"
+        "Someone joined the sever!"
       ]
     },
     "chat-log": true,
